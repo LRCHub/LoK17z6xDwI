@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "風薫る空の下",
+  "base_artist": "ツユ",
+  "createdAt": "2025-12-18T08:14:05.251210Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "風薫る空の下",
+      "artist": "ツユ",
+      "has_synced": true,
+      "path": "select/01_風薫る空の下_ツユ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "03. 風薫る空の下",
+      "artist": "ツユ",
+      "has_synced": true,
+      "path": "select/02_03._風薫る空の下_ツユ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ツユ - 風薫る空の下 MV",
+      "artist": "TUYU",
+      "has_synced": true,
+      "path": "select/03_ツユ_-_風薫る空の下_MV_TUYU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "風薫る空の下",
+      "artist": "ツユ",
+      "has_synced": false,
+      "path": "select/pl_01_風薫る空の下_ツユ.txt"
+    }
+  ]
+}
